@@ -11,8 +11,8 @@
     <groupId>com.shopping</groupId>
     <artifactId>mylist</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>mylist</name>
-    <description>mylist</description>
+    <name>Minhas Compras</name>
+    <description>API de compras com SpringBoot</description>
     <url/>
     <licenses>
         <license/>

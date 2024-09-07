@@ -1,1 +1,1 @@
-web: Java -jar mylist-0.0.1-SNAPSHOT.jar
+web: Java -jar target/mylist-0.0.1-SNAPSHOT.jar
